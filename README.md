@@ -25,7 +25,7 @@ I enjoy turning ideas into working products—from full-stack applications and d
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript" />
 </p>
 
 ### Frontend
