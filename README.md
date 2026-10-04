@@ -57,6 +57,25 @@ I enjoy turning ideas into working products—from full-stack applications and d
 
 ## 💻 Featured Projects
 
+### [🪞 MindMirror — AI-Powered Journaling Platform](https://github.com/Vedika-Shirdhankar/MindMirror)
+
+A full-stack application that combines journaling with AI-powered analysis to help users understand patterns in their thoughts and journal entries.
+
+**Highlights:**
+
+* AI-powered journal analysis
+* Sentiment & theme detection
+* Trigger identification
+* Coping suggestions
+* AI companion
+* Thought-ladder generation
+* Authentication
+* MongoDB-based persistence
+
+**Tech:** React · Vite · Node.js · Express · MongoDB · JWT · Gemini API
+
+---
+
 ### [💰 FinSight — Financial Intelligence Platform](https://github.com/Vedika-Shirdhankar/finsight)
 
 A full-stack personal finance platform for managing transactions, budgets, savings goals, recurring transactions, and financial analytics.
@@ -75,25 +94,6 @@ A full-stack personal finance platform for managing transactions, budgets, savin
 * Audit logging
 
 **Tech:** React · TypeScript · Node.js · Express · Supabase · PostgreSQL
-
----
-
-### [🪞 MindMirror — AI-Powered Journaling Platform](https://github.com/Vedika-Shirdhankar/MindMirror)
-
-A full-stack application that combines journaling with AI-powered analysis to help users understand patterns in their thoughts and journal entries.
-
-**Highlights:**
-
-* AI-powered journal analysis
-* Sentiment & theme detection
-* Trigger identification
-* Coping suggestions
-* AI companion
-* Thought-ladder generation
-* Authentication
-* MongoDB-based persistence
-
-**Tech:** React · Vite · Node.js · Express · MongoDB · JWT · Gemini API
 
 ---
 
