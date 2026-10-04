@@ -97,7 +97,15 @@ A full-stack application that combines journaling with AI-powered analysis to he
 
 ---
 
-### ♻️ Nebulon — Smart Waste Management Platform
+### 💳 PayFlow — Payment Processing Platform
+
+A modern payment processing platform built for seamless transactions and financial operations.
+
+**Tech:** React · Node.js · Express · Payment APIs
+
+---
+
+### ♻️ Nebulon (Nirikshan) — Smart Waste Management Platform
 
 A full-stack smart waste management platform combining web technologies, machine learning, computer vision, and AI.
 
