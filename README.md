@@ -57,7 +57,7 @@ I enjoy turning ideas into working products—from full-stack applications and d
 
 ## 💻 Featured Projects
 
-### [💰 FinSight — Financial Intelligence Platform](https://github.com/Vedika-Shirdhankar/Vedika-Shirdhankar)
+### [💰 FinSight — Financial Intelligence Platform](https://github.com/Vedika-Shirdhankar/finsight)
 
 A full-stack personal finance platform for managing transactions, budgets, savings goals, recurring transactions, and financial analytics.
 
@@ -78,7 +78,7 @@ A full-stack personal finance platform for managing transactions, budgets, savin
 
 ---
 
-### [🪞 MindMirror — AI-Powered Journaling Platform](https://github.com/Vedika-Shirdhankar/Vedika-Shirdhankar)
+### [🪞 MindMirror — AI-Powered Journaling Platform](https://github.com/Vedika-Shirdhankar/MindMirror)
 
 A full-stack application that combines journaling with AI-powered analysis to help users understand patterns in their thoughts and journal entries.
 
@@ -97,7 +97,7 @@ A full-stack application that combines journaling with AI-powered analysis to he
 
 ---
 
-### [💳 PayFlow — Payment Processing Platform](https://github.com/Vedika-Shirdhankar/Vedika-Shirdhankar)
+### [💳 PayFlow — Payment Processing Platform](https://github.com/Vedika-Shirdhankar/PayFlow)
 
 A modern payment processing platform built for seamless transactions and financial operations.
 
@@ -105,7 +105,7 @@ A modern payment processing platform built for seamless transactions and financi
 
 ---
 
-### [♻️ Nebulon (Nirikshan) — Smart Waste Management Platform](https://github.com/Vedika-Shirdhankar/Vedika-Shirdhankar)
+### [♻️ Nebulon (Nirikshan) — Smart Waste Management Platform](https://github.com/Vedika-Shirdhankar/Nebulon)
 
 A full-stack smart waste management platform combining web technologies, machine learning, computer vision, and AI.
 
