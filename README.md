@@ -1,181 +1,214 @@
 # Hi, I'm Vedika 👋
 
-### Computer Science & Engineering Student | Full-Stack Developer | Problem Solver
+### Computer Science & Engineering Student | Full-Stack Developer | Software Engineering Enthusiast
 
-I'm a third-year **Computer Science & Engineering student** passionate about building practical software, exploring new technologies, and solving problems through code.
+I'm a third-year **Computer Science & Engineering student at Sardar Patel Institute of Technology, Mumbai**, passionate about building practical software, exploring emerging technologies, and solving real-world problems through code.
 
-I enjoy turning ideas into working products—from full-stack applications and data-driven platforms to projects involving AI, APIs, and automation.
+I enjoy taking ideas from concept to implementation — building full-stack applications, designing backend systems, working with databases, and exploring how AI can make software more useful.
+
+I believe in learning by building, understanding the fundamentals, and continuously improving as an engineer.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Computer Science & Engineering student
-* 💻 Building full-stack applications with **React, Node.js, Express & databases**
-* 🧩 Strengthening my **Data Structures & Algorithms** skills
-* 📊 Interested in **data-driven applications and financial technology**
-* 🤖 Exploring practical applications of **AI and LLMs**
-* 🌱 Currently improving my software engineering, system design, and problem-solving skills
-* 💡 I enjoy building projects that solve real-world problems
+* 🎓 Third-year Computer Science & Engineering student at SPIT, Mumbai.
+* 💻 Building full-stack applications using React, Node.js, Express and modern databases.
+* 🏆 **1st Place — Nebulon 2026 Hackathon** for Nirikshan, an AI-powered waste management platform.
+* 🧩 Actively strengthening Data Structures & Algorithms and problem-solving skills.
+* 📊 Interested in financial technology, data-driven applications and backend engineering.
+* 🤖 Exploring practical applications of AI, LLMs and machine learning.
+* ⚙️ Learning more about system design, database architecture and software engineering.
+* 🌱 Always experimenting with new technologies and building things that solve actual problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
 </p>
 
-### Backend & Databases
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases & Caching
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,redis" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-### AI / Data
+### AI / Machine Learning
 
-* LLM & API integration
-* AI-powered application development
-* Data analysis
-* Machine learning fundamentals
+* LLM integration and AI-powered applications
+* Google Gemini API
+* Ollama and Llama 3.1
+* DistilBERT and text classification
+* Semantic search and embeddings
+* Python-based ML services
 
 ---
 
 ## 💻 Featured Projects
 
-### [🪞 MindMirror — AI-Powered Journaling Platform](https://github.com/Vedika-Shirdhankar/MindMirror)
+### 🪞 [MindMirror — AI-Powered Journaling Platform](https://github.com/Vedika-Shirdhankar/MindMirror)
 
-A full-stack application that combines journaling with AI-powered analysis to help users understand patterns in their thoughts and journal entries.
+A full-stack journaling application designed to help users understand their thoughts, recognize emotional patterns, and reflect on their experiences through AI-powered analysis.
 
-**Highlights:**
+**Key Features:**
 
-* AI-powered journal analysis
-* Sentiment & theme detection
-* Trigger identification
-* Coping suggestions
-* AI companion
-* Thought-ladder generation
-* Authentication
-* MongoDB-based persistence
+* AI-powered journal analysis and contextual insights.
+* Emotion and theme detection.
+* Trigger identification and personalized coping suggestions.
+* AI companion for reflective conversations.
+* Thought-ladder generation.
+* Semantic search and journal memory.
+* Secure authentication and persistent storage.
 
-**Tech:** React · Vite · Node.js · Express · MongoDB · JWT · Gemini API
-
----
-
-### [💰 FinSight — Financial Intelligence Platform](https://github.com/Vedika-Shirdhankar/finsight)
-
-A full-stack personal finance platform for managing transactions, budgets, savings goals, recurring transactions, and financial analytics.
-
-**Highlights:**
-
-* Financial dashboards & analytics
-* Transaction management
-* Budget & savings tracking
-* Automated transaction categorization
-* Duplicate transaction detection
-* CSV transaction import
-* Shared accounts
-* Authentication & authorization
-* PostgreSQL + Row Level Security
-* Audit logging
-
-**Tech:** React · TypeScript · Node.js · Express · Supabase · PostgreSQL
+**Tech Stack:** React · Vite · Node.js · Express · MongoDB · JWT · Gemini API · DistilBERT
 
 ---
 
-### [💳 PayFlow — Payment Processing Platform](https://github.com/Vedika-Shirdhankar/PayFlow)
+### 💰 [FinSight — Financial Intelligence Platform](https://github.com/Vedika-Shirdhankar/finsight)
 
-A modern payment processing platform built for seamless transactions and financial operations.
+A full-stack personal finance management platform designed to help users track transactions, manage budgets, monitor savings, and understand their financial activity.
 
-**Tech:** React · Node.js · Express · Payment APIs
+**Key Features:**
 
----
+* Interactive financial dashboards and analytics.
+* Transaction and recurring payment management.
+* Budget and savings goal tracking.
+* Automated transaction categorization.
+* Duplicate transaction detection.
+* CSV transaction import.
+* Shared accounts and authorization.
+* PostgreSQL Row Level Security (RLS).
+* Audit logging.
 
-### [♻️ Nebulon (Nirikshan) — Smart Waste Management Platform](https://github.com/Vedika-Shirdhankar/Nebulon)
-
-A full-stack smart waste management platform combining web technologies, machine learning, computer vision, and AI.
-
-**Highlights:**
-
-* Citizen, worker & admin workflows
-* Waste reporting
-* ML-based anomaly detection
-* Image-based waste classification
-* Analytics dashboard
-* Backend API
-* Dedicated ML service
-
-**Tech:** React · Node.js · Express · FastAPI · Python · Machine Learning
+**Tech Stack:** React · TypeScript · Node.js · Express · Supabase · PostgreSQL
 
 ---
 
-## 🧠 Problem Solving
+### 💳 [PayFlow — Distributed Payment Processing Platform](https://github.com/Vedika-Shirdhankar/PayFlow)
 
-Currently strengthening my **DSA and algorithmic problem-solving skills**.
+A full-stack payment processing platform designed to handle asynchronous payment execution, reliable transaction processing, and fault recovery through a queue-based architecture.
 
-### Areas I'm practicing
+**Key Features:**
+
+* ⚡ **Redis + BullMQ:** Queue-based asynchronous payment job processing.
+* 🔄 **Worker Architecture:** Dedicated background workers to process payment jobs independently of API requests.
+* 🔐 **Idempotency:** Prevents duplicate payment execution, even when requests are retried.
+* 💳 **ACID Transactions:** MongoDB transactions ensure atomic sender debit and receiver credit operations.
+* 🔁 **Automatic Retries:** Handles transient failures with retry and recovery mechanisms.
+* ⚙️ **Concurrency Management:** BullMQ manages job processing and worker concurrency.
+* 📡 **Real-Time Updates:** Socket.IO for live payment status updates.
+* 🔑 **Authentication:** JWT-based authentication and authorization.
+* 📊 **Payment Monitoring:** Payment tracking, status management and failure handling.
+
+**Tech Stack:** React · Node.js · Express · MongoDB · Redis · BullMQ · Socket.IO · JWT · Payment APIs
+
+---
+
+### ♻️ [Nirikshan — AI-Powered Waste Management System](https://github.com/Vedika-Shirdhankar/Nebulon)
+
+🏆 **1st Place — Nebulon 2026 Hackathon**
+
+A smart waste management and tracking platform designed to improve waste traceability, identify anomalies, and bring transparency to waste management workflows.
+
+**Key Features:**
+
+* Hierarchical India map for waste tracking.
+* QR-based waste batch tracking.
+* Eight-layer anomaly detection engine.
+* Image-based waste classification.
+* Citizen, worker and administrator workflows.
+* Analytics and monitoring dashboard.
+* Dedicated machine learning service.
+
+**Tech Stack:** React · Tailwind CSS · Node.js · Python · FastAPI · Ollama · Llama 3.1 · Supabase · PostgreSQL
+
+---
+
+## 🧠 Problem Solving & DSA
+
+Currently focused on strengthening my Data Structures and Algorithms fundamentals, with an emphasis on understanding patterns, optimizing solutions, and developing logical thinking.
+
+**Topics I'm Practicing:**
 
 * Arrays & Strings
 * Hashing
-* Sliding Window
+* Two Pointers & Sliding Window
 * Binary Search
+* Linked Lists
 * Stacks & Queues
-* Heaps
-* Trees
-* Graphs
+* Heaps & Priority Queues
+* Trees & Binary Search Trees
+* Graphs & Graph Algorithms
+* Greedy Algorithms
 * Dynamic Programming
+* Disjoint Set Union
 
-I focus on understanding patterns and trade-offs rather than memorizing solutions.
+I prefer understanding the intuition behind an algorithm, analyzing its time and space complexity, and learning when to apply different approaches rather than memorizing solutions.
 
 ---
 
-## 📈 GitHub Activity
+## 🎯 Currently Focusing On
+
+* Strengthening DSA and competitive problem-solving.
+* Building production-quality full-stack applications.
+* Improving backend development and API architecture.
+* Learning database optimization, transactions and security.
+* Understanding system design and concurrency.
+* Exploring practical AI and LLM integrations.
+* Preparing for software engineering internships.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vedika-Shirdhankar&show_icons=true&theme=transparent&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedika-Shirdhankar&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
 
----
-
-## 🎯 Currently Working On
-
-* Improving Data Structures & Algorithms
-* Building production-quality full-stack projects
-* Strengthening backend development
-* Learning better database design and security
-* Exploring practical AI/LLM integrations
-* Preparing for software engineering internships
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vedika-Shirdhankar&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with fellow developers, students, and people interested in building technology.
+I'm always happy to connect with fellow developers, engineers, students, and people who enjoy building meaningful technology.
 
 <p>
   <a href="https://github.com/Vedika-Shirdhankar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ✨ *Build. Learn. Improve. Repeat.*
+<p align="center">
+  ### ✨ Build. Learn. Experiment. Improve. Repeat.
+</p>
