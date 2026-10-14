@@ -68,21 +68,27 @@ I believe in learning by building, understanding the fundamentals, and continuou
 
 ## 💻 Featured Projects
 
-### 🪞 [MindMirror — AI-Powered Journaling Platform](https://github.com/Vedika-Shirdhankar/MindMirror)
+### Updated MindMirror Project Description
+🪞 MindMirror — AI-Powered Journaling & Mental Wellness Platform
 
-A full-stack journaling application designed to help users understand their thoughts, recognize emotional patterns, and reflect on their experiences through AI-powered analysis.
+A full-stack AI-powered journaling platform that combines natural language processing, machine learning, and LLM-based analysis to help users understand emotional patterns, reflect on their experiences, and gain contextual insights from their journal entries.
 
-**Key Features:**
+Key Features:
 
-* AI-powered journal analysis and contextual insights.
-* Emotion and theme detection.
-* Trigger identification and personalized coping suggestions.
-* AI companion for reflective conversations.
-* Thought-ladder generation.
-* Semantic search and journal memory.
-* Secure authentication and persistent storage.
+🧠 DistilBERT-Based Emotion Classification: Fine-tuned DistilBERT model for multi-class text classification across seven categories: anxiety, bipolar, personality disorder, depression, suicidal, normal, and stress.
+🤖 Gemini AI Integration: Context-aware journal analysis, personalized insights, and AI-powered conversations.
+🔍 Semantic Search: Embedding-based search to retrieve relevant past journal entries based on contextual similarity rather than exact keyword matching.
+🧩 AI Memory System: Maintains contextual information from previous journal entries to support more personalized interactions.
+📊 Mood & Pattern Analysis: Identifies recurring emotional patterns, themes, and potential triggers.
+💬 AI Companion: Supports reflective conversations and personalized coping suggestions.
+🪜 Thought Ladder Generation: Breaks down overwhelming thoughts into smaller, manageable steps.
+📅 Smart Calendar: Color-coded mood tracking and journal activity visualization.
+📝 Mind Dump Mode: Provides a space for unrestricted journaling and reflection.
+🔐 Secure Authentication: JWT-based authentication and protected user sessions.
+🛡️ Security Architecture: Input sanitization, rate limiting, CORS configuration, password hashing, and protected API routes.
+🗄️ Persistent Storage: MongoDB-based storage for users, journal entries, and associated data.
 
-**Tech Stack:** React · Vite · Node.js · Express · MongoDB · JWT · Gemini API · DistilBERT
+Tech Stack: React · Vite · Node.js · Express · MongoDB · JWT · Python · DistilBERT · Hugging Face · Gemini API · NLP · Semantic Search · Embeddings
 
 ---
 
