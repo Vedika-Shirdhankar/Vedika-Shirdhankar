@@ -68,8 +68,7 @@ I believe in learning by building, understanding the fundamentals, and continuou
 
 ## 💻 Featured Projects
 
-### Updated MindMirror Project Description
-🪞 MindMirror — AI-Powered Journaling & Mental Wellness Platform
+### 🪞 [MindMirror — AI-Powered Journaling Platform](https://github.com/Vedika-Shirdhankar/MindMirror)
 
 A full-stack AI-powered journaling platform that combines natural language processing, machine learning, and LLM-based analysis to help users understand emotional patterns, reflect on their experiences, and gain contextual insights from their journal entries.
 
@@ -89,7 +88,6 @@ Key Features:
 🗄️ Persistent Storage: MongoDB-based storage for users, journal entries, and associated data.
 
 Tech Stack: React · Vite · Node.js · Express · MongoDB · JWT · Python · DistilBERT · Hugging Face · Gemini API · NLP · Semantic Search · Embeddings
-
 ---
 
 ### 💰 [FinSight — Financial Intelligence Platform](https://github.com/Vedika-Shirdhankar/finsight)
